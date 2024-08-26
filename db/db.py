@@ -1,4 +1,3 @@
-from ast import Try
 import mysql.connector
 from mysql.connector import Error
 
