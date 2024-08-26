@@ -4,7 +4,7 @@
    git clone https://github.com/AgustinM12/advanced-data-analysis.git
    ```
 
-# Para ejecutar el programa primero debe crear un entorno virtual. Ej: 
+# Para ejecutar el programa primero debe crear un entorno virtual e iniciarlo. Ej: 
    ```bash
     python -m venv nombre_del_entorno
    ```

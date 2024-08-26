@@ -5,6 +5,7 @@ from data_analisis import data_analisis as da
 from graphics import graphic_data1 as gd1
 from graphics import graphic_data2 as gd2
 from graphics import graphic_data3 as gd3
+from db.db import DataBaseManager
 
 # Conexion a mysql
 conn = mysql.connector.connect(host="localhost", user="root", password="")
